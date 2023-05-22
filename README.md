@@ -27,7 +27,7 @@
 
 
 
-<h1 align="center">Projects</h1>
+<!-- <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
@@ -106,4 +106,4 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
     </td>
   </tr>
-</table>
+</table> -->
